@@ -43,7 +43,7 @@
 #   - help-docs - generate the command reference docs
 
 ALPINE_VER ?= 3.10
-BASE_VERSION = 2.0.2
+BASE_VERSION = 0.4.18
 
 # 3rd party image version
 # These versions are also set in the runners in ./integration/runners/
